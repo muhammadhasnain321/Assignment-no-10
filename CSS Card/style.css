@@ -1,0 +1,30 @@
+
+.card{column-count: 3;
+
+}
+
+
+
+img{
+    width: 100%;
+}
+
+.pic{
+    border: 2px solid ;
+    min-width: 100px;
+    max-width: 250px;
+    min-height: 100px;
+    max-height: 600px;
+    text-align: center;
+    padding: 10px;
+    padding-bottom: 10%;
+}
+span{
+
+    font-size: 30px;
+    display: block;
+    background-color: blueviolet;
+
+
+
+}
